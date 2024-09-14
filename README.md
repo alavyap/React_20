@@ -60,6 +60,3 @@ The server will be hosted on `http://localhost:3000`. You can visit this URL in 
 
 The real-time tracking functionality is powered by Socket.IO. When a user connects to the application, their location data is sent to the server and shared with other connected users in real-time. Socket.IO is used to handle this communication efficiently.
 
-## License
-
-This project is licensed under the MIT License.
